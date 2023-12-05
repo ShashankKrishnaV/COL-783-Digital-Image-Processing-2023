@@ -1,6 +1,6 @@
 # COL-783-Digital-Image-Processing-2023
 
-Each assignment, along with its corresponding report, can be found within their dedicated folders.
+The assignments pertain to the COL783 Digital Image Processing course, which is offered during Semester 1 of the academic year 2023-2024. Each assignment, along with its corresponding report, can be found within their dedicated folders.
 
 **Assignment 1 : Artistic Image Enhancement and Color Transfer**
 
