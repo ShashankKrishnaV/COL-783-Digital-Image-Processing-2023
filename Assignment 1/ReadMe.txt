@@ -22,4 +22,4 @@ Run the Python code as:
 
 	python part_{number}.py
 
-**Note :** Wherever prompted for image folder input, give the folder path containing source and target images
+Note : Wherever prompted for image folder input, give the folder path containing source and target images
