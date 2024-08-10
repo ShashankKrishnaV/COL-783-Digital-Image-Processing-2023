@@ -4,7 +4,7 @@ The assignments pertain to the COL783 Digital Image Processing course, which is 
 
 **Assignment 1 : Artistic Image Enhancement and Color Transfer**
 
-**Assignment 2 : Expression Transfer and Face Swap**
+**Assignment 2 : Face expression Transfer and Face Swap**
 
 **Assignment 3 : Seam Carving using Discrete Fourier Transform**
 
