@@ -9,3 +9,5 @@ The assignments pertain to the COL783 Digital Image Processing course, which is 
 **Assignment 3 : Seam Carving using Discrete Fourier Transform**
 
 **The utilization of the code in this repository is entirely at your discretion.**
+
+Please star the repo if it helpful.
